@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\L.JaeJin\\Desktop\\0430Team\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F220B0D-E7C6-4072-915B-B5C973F5675A}|Client\\Client.vcxproj|C:\\Users\\L.JaeJin\\Desktop\\0430Team\\Client\\AstarMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F220B0D-E7C6-4072-915B-B5C973F5675A}|Client\\Client.vcxproj|solutionrelative:Client\\AstarMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F220B0D-E7C6-4072-915B-B5C973F5675A}|Client\\Client.vcxproj|C:\\Users\\L.JaeJin\\Desktop\\0430Team\\Client\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F220B0D-E7C6-4072-915B-B5C973F5675A}|Client\\Client.vcxproj|solutionrelative:Client\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F220B0D-E7C6-4072-915B-B5C973F5675A}|Client\\Client.vcxproj|C:\\Users\\L.JaeJin\\Desktop\\0430Team\\Client\\MyTerrain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F220B0D-E7C6-4072-915B-B5C973F5675A}|Client\\Client.vcxproj|solutionrelative:Client\\MyTerrain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDC96D7-3D89-41E1-8F97-311D92D13F92}|Tool\\Tool.vcxproj|C:\\Users\\L.JaeJin\\Desktop\\0430Team\\Tool\\Terrain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CDC96D7-3D89-41E1-8F97-311D92D13F92}|Tool\\Tool.vcxproj|solutionrelative:Tool\\Terrain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDC96D7-3D89-41E1-8F97-311D92D13F92}|Tool\\Tool.vcxproj|C:\\Users\\L.JaeJin\\Desktop\\0430Team\\Tool\\ToolView.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6CDC96D7-3D89-41E1-8F97-311D92D13F92}|Tool\\Tool.vcxproj|solutionrelative:Tool\\ToolView.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F220B0D-E7C6-4072-915B-B5C973F5675A}|Client\\Client.vcxproj|C:\\Users\\L.JaeJin\\Desktop\\0430Team\\Client\\ObjMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F220B0D-E7C6-4072-915B-B5C973F5675A}|Client\\Client.vcxproj|solutionrelative:Client\\ObjMgr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F220B0D-E7C6-4072-915B-B5C973F5675A}|Client\\Client.vcxproj|C:\\Users\\L.JaeJin\\Desktop\\0430Team\\Client\\Stage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F220B0D-E7C6-4072-915B-B5C973F5675A}|Client\\Client.vcxproj|solutionrelative:Client\\Stage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F220B0D-E7C6-4072-915B-B5C973F5675A}|Client\\Client.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.39.33519\\INCLUDE\\VECTOR||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F220B0D-E7C6-4072-915B-B5C973F5675A}|Client\\Client.vcxproj|C:\\Users\\L.JaeJin\\Desktop\\0430Team\\Client\\Obj.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F220B0D-E7C6-4072-915B-B5C973F5675A}|Client\\Client.vcxproj|solutionrelative:Client\\Obj.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToolView.cpp",
+              "DocumentMoniker": "C:\\Users\\L.JaeJin\\Desktop\\0430Team\\Tool\\ToolView.cpp",
+              "RelativeDocumentMoniker": "Tool\\ToolView.cpp",
+              "ToolTip": "C:\\Users\\L.JaeJin\\Desktop\\0430Team\\Tool\\ToolView.cpp",
+              "RelativeToolTip": "Tool\\ToolView.cpp",
+              "ViewState": "AQIAAN4AAAAAAAAAAAAEwPMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-30T05:52:17.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Terrain.cpp",
+              "DocumentMoniker": "C:\\Users\\L.JaeJin\\Desktop\\0430Team\\Tool\\Terrain.cpp",
+              "RelativeDocumentMoniker": "Tool\\Terrain.cpp",
+              "ToolTip": "C:\\Users\\L.JaeJin\\Desktop\\0430Team\\Tool\\Terrain.cpp",
+              "RelativeToolTip": "Tool\\Terrain.cpp",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAqwGQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-30T05:48:56.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObjMgr.cpp",
+              "DocumentMoniker": "C:\\Users\\L.JaeJin\\Desktop\\0430Team\\Client\\ObjMgr.cpp",
+              "RelativeDocumentMoniker": "Client\\ObjMgr.cpp",
+              "ToolTip": "C:\\Users\\L.JaeJin\\Desktop\\0430Team\\Client\\ObjMgr.cpp",
+              "RelativeToolTip": "Client\\ObjMgr.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-30T05:30:14.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "ViewState": "AQIAAFMHAAAAAAAAAAAqwGQHAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-30T05:17:28.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Stage.cpp",
+              "DocumentMoniker": "C:\\Users\\L.JaeJin\\Desktop\\0430Team\\Client\\Stage.cpp",
+              "RelativeDocumentMoniker": "Client\\Stage.cpp",
+              "ToolTip": "C:\\Users\\L.JaeJin\\Desktop\\0430Team\\Client\\Stage.cpp",
+              "RelativeToolTip": "Client\\Stage.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvx0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-30T05:16:24.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyTerrain.cpp",
+              "DocumentMoniker": "C:\\Users\\L.JaeJin\\Desktop\\0430Team\\Client\\MyTerrain.cpp",
+              "RelativeDocumentMoniker": "Client\\MyTerrain.cpp",
+              "ToolTip": "C:\\Users\\L.JaeJin\\Desktop\\0430Team\\Client\\MyTerrain.cpp",
+              "RelativeToolTip": "Client\\MyTerrain.cpp",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAAAPQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-30T05:16:19.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AstarMgr.cpp",
+              "DocumentMoniker": "C:\\Users\\L.JaeJin\\Desktop\\0430Team\\Client\\AstarMgr.cpp",
+              "RelativeDocumentMoniker": "Client\\AstarMgr.cpp",
+              "ToolTip": "C:\\Users\\L.JaeJin\\Desktop\\0430Team\\Client\\AstarMgr.cpp",
+              "RelativeToolTip": "Client\\AstarMgr.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwB8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-30T05:16:06.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\L.JaeJin\\Desktop\\0430Team\\Client\\Player.cpp",
+              "RelativeDocumentMoniker": "Client\\Player.cpp",
+              "ToolTip": "C:\\Users\\L.JaeJin\\Desktop\\0430Team\\Client\\Player.cpp",
+              "RelativeToolTip": "Client\\Player.cpp",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAEwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-30T05:13:05.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Obj.cpp",
+              "DocumentMoniker": "C:\\Users\\L.JaeJin\\Desktop\\0430Team\\Client\\Obj.cpp",
+              "RelativeDocumentMoniker": "Client\\Obj.cpp",
+              "ToolTip": "C:\\Users\\L.JaeJin\\Desktop\\0430Team\\Client\\Obj.cpp",
+              "RelativeToolTip": "Client\\Obj.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-30T05:13:01.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
